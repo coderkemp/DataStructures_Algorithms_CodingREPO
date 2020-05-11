@@ -26,7 +26,6 @@ public class QueueUsingArrayImpl {
 	    } 
 	   
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
          QueueUsingArrayImpl queue = new QueueUsingArrayImpl(6);
          queue.enqueue(1);
          queue.enqueue(2);
